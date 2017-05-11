@@ -16,5 +16,7 @@ Youtube videos:
 - lambda.py			  - early version of the script that does some calculations and updates the JSON file
 - lambda_function_s3.py - version of code from the video that simply writes to the S3 bucket
 - 28_000*.json		  - JSON file that was written to S3 while testing the lambda
+- wiring-ds18b20.png  - diagram of wiring up the temperature sensors
+
 
 
